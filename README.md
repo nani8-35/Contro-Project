@@ -72,5 +72,5 @@ It mirrors the complex ecosystem of modern fintech apps with advanced engineerin
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Usman-bin-Khalid/Contro-Project.git
-   cd CONTRO-App
+   git clone https://github.com/nani8-35/Contro-Project.git
+   cd Contro-Project
