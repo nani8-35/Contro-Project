@@ -74,3 +74,11 @@ It mirrors the complex ecosystem of modern fintech apps with advanced engineerin
    ```bash
    git clone https://github.com/nani8-35/Contro-Project.git
    cd Contro-Project
+## Repository Maintainer
+
+**Y VENKATA AKASH KUMAR**
+
+- GitHub: [nani8-35](https://github.com/nani8-35)
+- LinkedIn: [Akash Yeginati](https://linkedin.com/in/akash-yeginati)
+
+This repository maintains a reference-based project for learning and portfolio review. Maintainer details identify the owner of this repository, not original authorship of all source code.
